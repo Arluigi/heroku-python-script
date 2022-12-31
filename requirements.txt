@@ -23,6 +23,8 @@ sqlparse==0.4.3
 tokenizers==0.13.2
 tqdm==4.64.1
 tk==0.1.0
+tk-devel
+tkinter
 transformers==4.25.1 
 types-pytz==2022.7.0.0
 typing==3.7.4.3
