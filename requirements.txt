@@ -23,7 +23,7 @@ sqlparse==0.4.3
 tokenizers==0.13.2
 tqdm==4.64.1
 transformers==4.25.1
-turtle==0.0.1   
+turtle 
 types-pytz==2022.7.0.0
 typing==3.7.4.3
 typing_extensions==4.4.0
